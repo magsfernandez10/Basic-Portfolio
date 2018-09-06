@@ -3,18 +3,43 @@ body {
     margin: 0;
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
-    line-height: 150%;
+    line-height: 5%;
     color: #333;
-    background: #efeee7b7;
-  }
+    background-image: url("/Users/Sindy/Documents/Extra Homework/Basic-Portfolio/assets/images/Chicago_above_the_clouds.jpg");
+    background-size: auto;
+    }
   
  
-
   header {
-    padding: 20px 0;
-    margin: 0;
     margin-bottom: 20px;
-    font-size: 28px;
-    color: #eee;
-    text-align: center;
+    border: 1px solid #333;
+    line-height: 40px;
+    background-color: aliceblue;
   }
+
+  h1{
+
+    padding: 15px;
+    margin-left: 20px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border: 1px solid #333;
+    background-color: #ffffff;
+    font-family: 'Playfair Display', serif;
+  }
+
+  .container{
+    padding: 20px;
+    margin: 10px;
+    margin-right: 20px;
+    font-size: 28px;
+    
+  }
+
+
+
+
+
+  
+ 
