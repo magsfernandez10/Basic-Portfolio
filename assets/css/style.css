@@ -1,3 +1,8 @@
+html,
+body{
+  height: 100%;
+}
+
 body {
     padding: 0;
     margin: 0;
@@ -5,8 +10,10 @@ body {
     font-size: 18px;
     line-height: 5%;
     color: #333;
-    background-image: url("/Users/Sindy/Documents/Extra Homework/Basic-Portfolio/assets/images/Chicago_above_the_clouds.jpg");
-    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Chicago_above_the_clouds.jpg");
     }
   
  
@@ -35,6 +42,13 @@ body {
     margin-right: 20px;
     font-size: 28px;
     
+  }
+
+  #Image{
+width: 100px;
+border: 2px #ffffff solid;
+
+
   }
 
 
